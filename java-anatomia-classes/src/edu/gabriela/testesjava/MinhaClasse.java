@@ -1,3 +1,4 @@
+package edu.gabriela.testesjava;
 public class MinhaClasse {
     
     public static void main (String [] args) {
